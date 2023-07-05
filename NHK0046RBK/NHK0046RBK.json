@@ -1,0 +1,200 @@
+[
+      {
+            "Point1": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 575,
+                        "Top": 438,
+                        "Right": 590,
+                        "Bottom": 454,
+                        "Score": 800,
+                        "Color": [
+                              166,
+                              153,
+                              129
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point2": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 245,
+                        "Top": 412,
+                        "Right": 255,
+                        "Bottom": 423,
+                        "Score": 800,
+                        "Color": [
+                              190,
+                              182,
+                              162
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point3": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 590,
+                        "Top": 405,
+                        "Right": 600,
+                        "Bottom": 419,
+                        "Score": 800,
+                        "Color": [
+                              126,
+                              119,
+                              94
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point4": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 582,
+                        "Top": 381,
+                        "Right": 592,
+                        "Bottom": 394,
+                        "Score": 800,
+                        "Color": [
+                              140,
+                              132,
+                              107
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point5": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 493,
+                        "Top": 432,
+                        "Right": 509,
+                        "Bottom": 447,
+                        "Score": 800,
+                        "Color": [
+                              162,
+                              148,
+                              128
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point6": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 484,
+                        "Top": 393,
+                        "Right": 501,
+                        "Bottom": 408,
+                        "Score": 800,
+                        "Color": [
+                              138,
+                              125,
+                              102
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point7": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 412,
+                        "Top": 426,
+                        "Right": 429,
+                        "Bottom": 440,
+                        "Score": 800,
+                        "Color": [
+                              185,
+                              172,
+                              149
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point8": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 380,
+                        "Top": 387,
+                        "Right": 394,
+                        "Bottom": 398,
+                        "Score": 800,
+                        "Color": [
+                              167,
+                              156,
+                              133
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point9": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 325,
+                        "Top": 416,
+                        "Right": 343,
+                        "Bottom": 432,
+                        "Score": 800,
+                        "Color": [
+                              179,
+                              164,
+                              141
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point10": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 264,
+                        "Top": 373,
+                        "Right": 274,
+                        "Bottom": 385,
+                        "Score": 800,
+                        "Color": [
+                              169,
+                              159,
+                              138
+                        ]
+                  }
+            ]
+      },
+      {
+            "Point11": [
+                  {
+                        "Emp ID": "W65D26",
+                        "Mode": "Color",
+                        "Left": 178,
+                        "Top": 373,
+                        "Right": 187,
+                        "Bottom": 383,
+                        "Score": 800,
+                        "Color": [
+                              159,
+                              158,
+                              138
+                        ]
+                  }
+            ]
+      }
+]
